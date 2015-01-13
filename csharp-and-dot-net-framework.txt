@@ -1,0 +1,15 @@
+csharp and .Net Framework
+
+	C#
+	C # is an object-oriented programming language developed by Microsoft. It's part of the software platform
+ .NET - simple and modern. C# contains a set of definitions of classes that incorporating methods and methods 
+ lies programming logic - the instructions that the computer performs. C # programs are one or several files
+ with the extension * .cs.
+
+	.NET Framework
+	Platform development and implementation of programs under Windows, including network applications and web
+services.
+	It integrates different programming languages: C ++, C #, J #, VB.NET, Jscript, Perl, Python, Pascal, APL,
+COBOL, Eiffel, Haskell, ML, Oberon, Scheme, Smalltalk. A very important advantage of the platform is that it 
+allows mixing of languages used in the same project. The code works on different platforms (Windows, Linux, 
+FreeBSD).
