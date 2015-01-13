@@ -1,0 +1,18 @@
+Programming environment
+Quanta
+Quanta is specialized environment for the development of WEB applications. It is a flexible, high performance, easy to use. Quanta can not only edit HTML files, but also to build PHP sites. Has built debugger.
+
+Microsoft.NET Framework
+Platform development and implementation of programs under Windows, including network applications and web services.
+It integrates different programming languages: C ++, C #, J #, VB.NET, Jscript, Perl, Python, Pascal, APL, COBOL, Eiffel, Haskell, ML, Oberon, Scheme, Smalltalk. A very important advantage of the platform is that it allows mixing of languages used in the same project. The code works on different platforms (Windows, Linux, FreeBSD).
+
+NetBeans
+NetBeans is an OpenSource IDE. The modular principle, which is built makes it a wonderful editor for source code for  web pages, servlets and JSP-th, UML designer, builder and debugger.  For graphics applications it's a Wonderful.
+The disadvantage  is slow operation.
+
+Eclipse
+Eclipse is the IDE, written in Java. Environment is very fast. The advantage of this environment is that it relies on a small and fast core on which to build plug-in components that make up the very IDE. Can be used for development of C / C ++, Java, and WEB based projects.
+
+Komodo
+Komodo is a multi-platform, multi-language environment for overall development of dynamic web applications. There are distributions for Windows, Mac OS X and Linux.
+Used programming languages Perl, PHP, Python, Tcl and technology Ajax, CSS, HTML, JavaScript and XML.
