@@ -1,0 +1,15 @@
+programming languages
+
+Java
+Java is a language oriented to objects based on classes. It is one of the most popular programming languages.
+Designed for business software, Internet content, games, mobile applications and mobile operating system Android.
+The language is designed for use across multiple software environments.
+
+C ++
+This is a mid-level language for objects oriented programming. It's used to develop systems software, applications, servers,
+high-performance client applications and video games.
+
+PHP
+This is a free scripting language for developing dynamic websites and applications. It can be directly embedded in HTML 
+documents, which makes it a popular language for Web developers. PHP is the basis for more than 200 million site, including
+WordPress, Digg and Facebook.
